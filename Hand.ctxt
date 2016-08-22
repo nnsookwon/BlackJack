@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hand()
+comment1.params=c
+comment1.target=void\ addCardToHand(Card)
+comment2.params=
+comment2.target=void\ calculateHandValue()
+comment3.params=
+comment3.target=int\ getHandValue()
+comment4.params=
+comment4.target=boolean\ isBust()
+comment5.params=n
+comment5.target=Card\ getCard(int)
+comment6.params=
+comment6.target=int\ numOfCards()
+comment7.params=
+comment7.target=void\ resetHand()
+numComments=8
